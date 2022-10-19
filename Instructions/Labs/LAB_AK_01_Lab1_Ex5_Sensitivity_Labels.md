@@ -48,7 +48,7 @@ ms.locfileid: "137899379"
 
     `$adminurl = "https://" + $domain.Name.split('.')[0] + "-admin.sharepoint.com"`
 
-13. 次のコマンドレットを入力して、SharePoint Online 管理センターにサインインします。
+13. 次のコマンドレットを入力して、認証ダイアログボックスを表示します。
 
     `Connect-SPOService -url $adminurl`
 
