@@ -235,7 +235,7 @@ EDM ベースの分類を機密データを含むデータベースと関連付�
 
 25. 以下のスクリプトを PowerShell で実行して、EDB ベースの分類による秘密情報の種類のデータベース スキーマの定義をダウンロードします:
 
-    `.\EdmUploadAgent.exe /SaveSchema /DataStoreName employeedb /OutputDir "C:\Users\Admin\Documents\"`
+    `.\EdmUploadAgent.exe /SaveSchema /DataStoreName employeedb /OutputDir "C:\Users\Admin\Documents"`
 
     注: 最後のコマンドが失敗したら、**EDM_DataUploaders** グループ メンバーシップが適用されるまでもっと時間がかかる可能性があります。 スキーマ ファイルをダウンロードすることができるようになるまで最大 1 時間かかる場合があります。  失敗した場合は、次のタスクに進み、後でこの手順に戻ります。
 
