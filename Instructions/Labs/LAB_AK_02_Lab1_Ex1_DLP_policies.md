@@ -204,7 +204,7 @@ Microsoft Defender for Cloud Apps でファイル監視が有効になりまし�
 
 これで、OneDrive と SharePoint に保存されたファイルを継続的にスキャンしてクレジット カード情報を探し、組織内で共有されている場合に検疫を行うファイル ポリシーが作成されました。
 
-### <a name="task-8---create-a-dlp-policy-for-powerplatform"></a>タスク 8 - PowerShell に DLP ポリシーを作成する
+### <a name="task-8---create-a-dlp-policy-for-powerplatform"></a>タスク 8 - PowerApps に DLP ポリシーを作成する
 
 会社では Power Automate のフローを用いて、データを SharePoint Online と SalesForce で共有します。 このタスクでは、既存のフローを続行させつつ、SharePoint Online とビジネス以外として定義されたアプリとの間でデータを共有するフローの作成を防止する、PowerPlatform 向けの DLP ポリシーを作成します。
 
